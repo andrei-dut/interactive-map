@@ -10,8 +10,6 @@
 /build
 /public
 /src
-package.json
-.package.json
 yarn.lock
 
 # misc
