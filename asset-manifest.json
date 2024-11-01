@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/interactive-map/static/css/main.2d552bf5.css",
-    "main.js": "/interactive-map/static/js/main.0089790d.js",
+    "main.js": "/interactive-map/static/js/main.81e62f61.js",
     "static/js/206.970a151f.chunk.js": "/interactive-map/static/js/206.970a151f.chunk.js",
     "static/media/Montserrat-Italic-VariableFont_wght.ttf": "/interactive-map/static/media/Montserrat-Italic-VariableFont_wght.7451547bd28d8dddbeea.ttf",
     "static/media/Montserrat-VariableFont_wght.ttf": "/interactive-map/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
@@ -30,17 +30,22 @@
     "static/media/close.svg": "/interactive-map/static/media/close.9ca3719955527b7161940823ed486d18.svg",
     "static/media/closeSlide.svg": "/interactive-map/static/media/closeSlide.1885866e2aad79a4d15fbad6b19a41b8.svg",
     "index.html": "/interactive-map/index.html",
+    "static/media/close2.svg": "/interactive-map/static/media/close2.1aa0d11efb4f805ebf26bcf7108b172e.svg",
     "static/media/mapMarker.svg": "/interactive-map/static/media/mapMarker.7511550ed29c22d0631e67c96b084667.svg",
     "static/media/notWork.svg": "/interactive-map/static/media/notWork.ce6ea5b2457f63c66ab84f151492d355.svg",
     "static/media/star.svg": "/interactive-map/static/media/star.f7ae1a1c242d621c16c44d223356b1f7.svg",
     "static/media/crownB.svg": "/interactive-map/static/media/crownB.d5426e284ad1527a90b65423f9300c29.svg",
     "static/media/crownR.svg": "/interactive-map/static/media/crownR.cfa0ce1e3b1e1d5e9658a827b9bdbb92.svg",
     "static/media/crownY.svg": "/interactive-map/static/media/crownY.67416138873cbca2bb99f002aded9718.svg",
+    "static/media/newCrownB.svg": "/interactive-map/static/media/newCrownB.ee9740282c28d9cabbe19350d3a0804f.svg",
+    "static/media/newCrownG.svg": "/interactive-map/static/media/newCrownG.743ff52df16c5ff3334f728824c6727f.svg",
+    "static/media/newCrownLB.svg": "/interactive-map/static/media/newCrownLB.99c986d632b5d8eb4fd8ca97a7636e87.svg",
+    "static/media/newCrownY.svg": "/interactive-map/static/media/newCrownY.57adc828644d29e2a96b612329f1e5e6.svg",
     "static/media/arrowCloseList.svg": "/interactive-map/static/media/arrowCloseList.224d5c686caf4f130244d417293f08a2.svg",
     "static/media/predstav.svg": "/interactive-map/static/media/predstav.39bd72bf788ced3c6623bf3a181b517c.svg"
   },
   "entrypoints": [
     "static/css/main.2d552bf5.css",
-    "static/js/main.0089790d.js"
+    "static/js/main.81e62f61.js"
   ]
 }
